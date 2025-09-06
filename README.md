@@ -35,9 +35,9 @@
 
 ## 📈 GitHub Stats  
 
-![Sanketh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanketh-T&show_icons=true&theme=tokyonight)  
+![Sanketh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketh2004&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketh-T&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketh2004&layout=compact&theme=tokyonight)  
 
 ---
 
